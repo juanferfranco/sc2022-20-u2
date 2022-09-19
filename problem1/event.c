@@ -4,11 +4,10 @@
 
 Event *CreateEvent(char *name)
 {
-    Event *event = NULL;
-    return event;
+
 }
 
 void DestroyEvent(Event *this)
 {
-    free(this);
+
 }
